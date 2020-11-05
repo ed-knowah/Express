@@ -1,0 +1,18 @@
+{
+  "name": "basicserver",
+  "version": "1.0.0",
+  "description": "a server that listens topost,put,delete requests",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "edetnoah@gmail.com"
+  },
+  "author": "ed_knowah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
